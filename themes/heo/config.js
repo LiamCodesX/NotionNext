@@ -18,7 +18,7 @@ const CONFIG = {
 
     // 英雄区(首页顶部大卡)
     HEO_HERO_TITLE_1: 'AI之路',
-    HEO_HERO_TITLE_2: '与你同行',
+    HEO_HERO_TITLE_2: '你我同行',
     HEO_HERO_TITLE_3: 'LIAMTECH.COM',
     HEO_HERO_TITLE_4: '探索AI技术应用，了解行业新趋势',
     HEO_HERO_TITLE_5: '积智聚慧 共享经验 激荡思想 携手同行',
