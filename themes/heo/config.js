@@ -8,7 +8,7 @@ const CONFIG = {
 
     // 首页顶部通知条滚动内容，如不需要可以留空 []
     HEO_NOTICE_BAR: [
-        { title: '欢迎来到我的博客', url: 'https://liamtech.com' }
+        { title: '欢迎来到我的博客', url: 'https://liamtech.top' }
     ],
 
     // 英雄区左右侧组件颠倒位置
@@ -19,10 +19,10 @@ const CONFIG = {
     // 英雄区(首页顶部大卡)
     HEO_HERO_TITLE_1: 'AI之路',
     HEO_HERO_TITLE_2: '你我同行',
-    HEO_HERO_TITLE_3: 'LIAMTECH.COM',
+    HEO_HERO_TITLE_3: 'LIAMTECH.TOP',
     HEO_HERO_TITLE_4: '探索AI技术应用，了解行业新趋势',
     HEO_HERO_TITLE_5: '积智聚慧 共享经验 激荡思想 携手同行',
-    HEO_HERO_TITLE_LINK: 'https://liamtech.com',
+    HEO_HERO_TITLE_LINK: 'https://liamtech.top',
 
     // 英雄区显示三个置顶分类
     HEO_HERO_CATEGORY_1: { title: '人工智能', url: '/tag/人工智能' },
@@ -50,7 +50,7 @@ const CONFIG = {
     HEO_INFO_CARD_ICON1: 'fas fa-user',
     HEO_INFO_CARD_URL2: 'https://github.com/LiamCodesX',
     HEO_INFO_CARD_ICON2: 'fab fa-github',
-    HEO_INFO_CARD_URL3: 'https://www.liamtech.com',
+    HEO_INFO_CARD_URL3: 'https://www.liamtech.top',
     HEO_INFO_CARD_TEXT3: '了解更多',
 
     // 用户技能图标
