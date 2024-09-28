@@ -8,7 +8,7 @@ const CONFIG = {
 
     // 首页顶部通知条滚动内容，如不需要可以留空 []
     HEO_NOTICE_BAR: [
-        { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' }
+        { title: '欢迎来到我的博客', url: 'https://liamtech.com' }
     ],
 
     // 英雄区左右侧组件颠倒位置
@@ -17,11 +17,11 @@ const CONFIG = {
     HEO_HERO_BODY_REVERSE: false,
 
     // 英雄区(首页顶部大卡)
-    HEO_HERO_TITLE_1: '积智聚慧 共享经验',
-    HEO_HERO_TITLE_2: '激荡思想 携手同行',
+    HEO_HERO_TITLE_1: 'AI之路',
+    HEO_HERO_TITLE_2: '与你同行',
     HEO_HERO_TITLE_3: 'LIAMTECH.COM',
     HEO_HERO_TITLE_4: '探索AI技术应用，了解行业新趋势',
-    HEO_HERO_TITLE_5: 'Accumulate wisdom, share experiences, spark ideas, and progress together',
+    HEO_HERO_TITLE_5: '积智聚慧 共享经验 激荡思想 携手同行',
     HEO_HERO_TITLE_LINK: 'https://liamtech.com',
 
     // 英雄区显示三个置顶分类
